@@ -1,15 +1,15 @@
 
 **Name:** H.P.U Dulanjalee
 
-SLIIT ID:IT12518456
+**SLIIT ID:**IT12518456
 
-Practical Session: WE Thursday
+**Practical Session: **WE Thursday
 
-Practical Number: Lab 2
+**Practical Number: ** Lab 2
 
 **Creating an Amazon EBS-Backed Linux AMI**
 
-(http://i60.tinypic.com/ddgsy0.jpg
+![s](http://i60.tinypic.com/ddgsy0.jpg)
 
 
 
