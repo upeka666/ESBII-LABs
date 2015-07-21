@@ -11,5 +11,10 @@
 
 ![s](http://i60.tinypic.com/ddgsy0.jpg)
 
+Open the Amazon EC2 console 
+
+![s](http://i60.tinypic.com/2uqhnyd.jpg)
+
+
 
 
