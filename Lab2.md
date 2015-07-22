@@ -33,6 +33,9 @@ select view pending image
 
 ![a](http://i58.tinypic.com/29549hh.jpg)
 
+**create an AMI from an instance using the command line .**
+Install the AWS CLI using the MSI installer
+
 
 
 
