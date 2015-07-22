@@ -41,6 +41,13 @@ Install the AWS CLI using the MSI installer
 
 ![a](http://i59.tinypic.com/idrxw3.jpg)
 
+Creating an AMI from a Snapshot .
+Open the Amazon EC2 console
+
+
+![a](http://i58.tinypic.com/e0394x.jpg)
+
+
 ![a](http://i59.tinypic.com/15xnvp5.jpg)
 
 ![a](http://i58.tinypic.com/34y4aq9.jpg)
