@@ -68,6 +68,11 @@ Quick Configuration
 
 ![a](http://i58.tinypic.com/e0394x.jpg)
 
+In the navigation pane, under Elastic Block Store, choose Snapshots.
+
+![a](http://i59.tinypic.com/2wm3xhe.jpg)
+
+
 
 
 
