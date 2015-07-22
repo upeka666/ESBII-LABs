@@ -45,6 +45,15 @@ Install the AWS CLI using the MSI installer
 
 ![a](http://i58.tinypic.com/34y4aq9.jpg)
 
+Configuring the AWS Command Line Interface
+
+Ensure that your computer's date and time are set correctly; if not, the date in the signature may not match the date of the request, and AWS rejects the request.
+
+get your access key ID and secret access key
+
+
+
+
 
 
 
