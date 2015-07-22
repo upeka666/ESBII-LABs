@@ -76,6 +76,14 @@ Choose the snapshot, and then choose Create Image from the Actions list.
 
 ![a](http://i58.tinypic.com/2nrpvub.jpg)
 
+![a](http://i62.tinypic.com/14cfx9i.jpg)
+
+Create an AMI from a snapshot using the command line 
+
+![a](http://i60.tinypic.com/10eehvp.jpg)
+
+
+
 
 
 
