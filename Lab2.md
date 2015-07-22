@@ -22,7 +22,7 @@ Creating an Amazon EBS Snapshot.In the navigation pane, click Instances and sele
 
 
 
-
+![s](http://i58.tinypic.com/2h7niiq.jpg)
 ![s](http://i57.tinypic.com/4hzi2q.jpg)
 
 ![s](http://i59.tinypic.com/2sb0uix.jpg)
