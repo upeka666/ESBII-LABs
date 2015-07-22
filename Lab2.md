@@ -25,5 +25,8 @@ Creating an Amazon EBS Snapshot.In the navigation pane, click Instances and sele
 
 ![s](http://i59.tinypic.com/2sb0uix.jpg)
 
+select view pending image
+
+
 
 
