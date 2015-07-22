@@ -3,9 +3,9 @@
 
 **SLIIT ID:**IT12518456
 
-**Practical Session: **WE Thursday
+**Practical Session:**WE Thursday
 
-**Practical Number: ** Lab 2
+**Practical Number:** Lab 2
 
 **Creating an Amazon EBS-Backed Linux AMI**
 
