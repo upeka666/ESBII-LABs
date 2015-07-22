@@ -19,7 +19,7 @@ Connect to Linux Instance.
 
 Creating an Amazon EBS Snapshot.In the navigation pane, click Instances and select your instance. Click Actions, select Image, and then click Create Image.
 
-![s](http://i58.tinypic.com/2h7niiq.jpg)
+![s]()
 
 ![s](http://i62.tinypic.com/28akz1h.jpg)
 
