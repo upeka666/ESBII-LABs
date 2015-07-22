@@ -53,6 +53,8 @@ get your access key ID and secret access key
 
 ![a](http://i60.tinypic.com/rwkraf.jpg)
 
+![a](http://i59.tinypic.com/b6t4wl.jpg)
+
 
 
 
