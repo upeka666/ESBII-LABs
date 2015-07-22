@@ -51,7 +51,7 @@ Ensure that your computer's date and time are set correctly; if not, the date in
 
 get your access key ID and secret access key
 
-![a](http://i58.tinypic.com/34y4aq9.jpg)
+![a](http://i60.tinypic.com/rwkraf.jpg)
 
 
 
