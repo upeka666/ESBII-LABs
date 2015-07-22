@@ -55,6 +55,8 @@ get your access key ID and secret access key
 
 ![a](http://i59.tinypic.com/b6t4wl.jpg)
 
+Quick Configuration
+
 
 
 
