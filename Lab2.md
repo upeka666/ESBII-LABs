@@ -72,6 +72,9 @@ In the navigation pane, under Elastic Block Store, choose Snapshots.
 
 ![a](http://i59.tinypic.com/2wm3xhe.jpg)
 
+Choose the snapshot, and then choose Create Image from the Actions list.
+
+![a](http://i58.tinypic.com/2nrpvub.jpg)
 
 
 
