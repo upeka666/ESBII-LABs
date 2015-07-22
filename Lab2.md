@@ -43,6 +43,8 @@ Install the AWS CLI using the MSI installer
 
 ![a](http://i59.tinypic.com/15xnvp5.jpg)
 
+![a](http://i58.tinypic.com/34y4aq9.jpg)
+
 
 
 
