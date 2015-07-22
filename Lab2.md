@@ -45,7 +45,7 @@ Creating an AMI from a Snapshot .
 Open the Amazon EC2 console
 
 
-![a](http://i58.tinypic.com/e0394x.jpg)
+
 
 
 ![a](http://i59.tinypic.com/15xnvp5.jpg)
@@ -65,6 +65,8 @@ get your access key ID and secret access key
 Quick Configuration
 
 ![a](http://i62.tinypic.com/f1gsk0.jpg)
+
+![a](http://i58.tinypic.com/e0394x.jpg)
 
 
 
