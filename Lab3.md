@@ -8,3 +8,8 @@
 **Practical Number:** Lab 3
 
 **Create a Bucket**
+
+steps of the process
+
+
+
