@@ -90,13 +90,26 @@ Enter the bucket name and click Delete.
 
 ![a](http://i62.tinypic.com/29o0kyf.jpg)
 
-![a](http://i59.tinypic.com/equuc2.jpg
+![a](http://i59.tinypic.com/equuc2.jpg)
 
 **Creating a DB Instance Running the MySQL Database Engine**
 Launch a MySQL DB instance.
 
 In the navigation pane, click DB Instances .
  
+![a](http://i59.tinypic.com/equuc2.jpg)
+
+Click Launch DB Instance to start the Launch DB Instance Wizard.
+
+![a](http://i59.tinypic.com/ftoa4h.jpg)
+
+Click the Select button for the MySQL DB engine.
+
+![a](http://i59.tinypic.com/2o2sp.jpg)
+
+![a](http://i61.tinypic.com/13zmpat.jpg)
+
+![a](http://i59.tinypic.com/20try82.jpg)
   
 
 
