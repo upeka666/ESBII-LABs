@@ -38,6 +38,22 @@ In the Region box, select a region. For this exercise, select Oregon from the dr
 empty bucket.
 
 Click the name of bucket that you want to upload an object to and then click Upload
+
+![a](http://i57.tinypic.com/254x9ad.jpg)
+
+Click Add Files and select the file that you want to upload.
+
+![a](http://i62.tinypic.com/21okmo.jpg)
+
+Click Start Upload
+
+![a](http://i57.tinypic.com/wldfk8.jpg)
+
+![a](http://i59.tinypic.com/3zeqq.jpg)
+
+![a](http://i59.tinypic.com/1zcedcm.jpg)
+
+**View an Object**
  
   
 
