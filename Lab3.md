@@ -54,6 +54,48 @@ Click Start Upload
 ![a](http://i59.tinypic.com/1zcedcm.jpg)
 
 **View an Object**
+
+You can open and view it in a browser. You can also download the object to your local computer.
+
+Open an object.
+
+![a](http://i60.tinypic.com/rtoxo1.jpg)
+
+**Move an Object**
+
+![a](http://i62.tinypic.com/jgqg3s.jpg)
+
+![a](http://i57.tinypic.com/23vhsaq.jpg)
+
+![a](http://i58.tinypic.com/2itls7t.jpg)
+
+**Delete an Object and Bucket**
+
+Delete an object
+Right-click the object that you want to delete, and then click Delete.
+
+![a](http://i61.tinypic.com/nb85j9.jpg)
+
+![a](http://i60.tinypic.com/dcwyfl.jpg)
+
+![a](http://i59.tinypic.com/2z8c1o9.jpg)
+
+Delete the bucket
+
+Right-click the bucket that you want to delete, and then click Delete Bucket 
+
+![a](http://i61.tinypic.com/1z343d3.jpg)
+
+Enter the bucket name and click Delete.
+
+![a](http://i62.tinypic.com/29o0kyf.jpg)
+
+![a](http://i59.tinypic.com/equuc2.jpg
+
+**Creating a DB Instance Running the MySQL Database Engine**
+Launch a MySQL DB instance.
+
+In the navigation pane, click DB Instances .
  
   
 
