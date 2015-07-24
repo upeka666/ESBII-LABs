@@ -27,6 +27,19 @@ In the Region box, select a region. For this exercise, select Oregon from the dr
    
   ![a]( http://i60.tinypic.com/2jedc7t.jpg)
   
+ ![a](http://i59.tinypic.com/34pcgvk.jpg)
+ 
+  ![a](http://i58.tinypic.com/ohv60g.jpg)
+ 
+ **Add an object to a bucket.**
+ 
+ Now you're ready to add an object to it. An object can be any kind of file: a text file, a photo, a video and so forth.
+
+empty bucket.
+
+Click the name of bucket that you want to upload an object to and then click Upload
+ 
+  
 
 
 
