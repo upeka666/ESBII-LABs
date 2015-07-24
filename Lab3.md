@@ -11,7 +11,7 @@
 
 steps of the process
 
-![a](http://i61.tinypic.com/167kx75.jpg)
+
 
 Every object in Amazon S3 is stored in a bucket. Before you can store data in Amazon S3, you must create a bucket.
 
