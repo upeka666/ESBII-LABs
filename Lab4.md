@@ -25,64 +25,60 @@ Find lab 1 at  (https://github.com/IntroHCI/lab1)
 
 Click Fork
 
-PI1
+![a](http://i62.tinypic.com/x0xmo2.jpg)
 
 After Fork
 
-PI2
+![a](http://i61.tinypic.com/2r4kef4.jpg)
 
 Copy the git clone URL
 
-PIC3
+![a](http://i59.tinypic.com/10n9hl4.jpg)
 
 Open your terminal and change to the configuration file directory.
 
-PIC4
+![a](http://i59.tinypic.com/mhsx6q.jpg)
 
 git clone the repo inside of introHCL
-(make sure the clone URL has your forked GitHub username in it, not IntroHCL)
 
-
-PIU5
+![a](http://i58.tinypic.com/21oq4ip.jpg)
 
 Open your text editor
 Add your info into lab1/static/index.html
 
-
-PIC6
+![a](http://i58.tinypic.com/21oq4ip.jpg)
 
 Browse to index.html using the file on your hard drive
 
-PIC 7
-
+![a](http://i60.tinypic.com/2nrhshi.jpg)
 
 Turn the portfolio page scaffold into a full web site and push it to GitHub
 
-PIC8
+![a](http://i58.tinypic.com/53pk7q.jpg)
 
-PIC9
+![a](http://i60.tinypic.com/r85s85.jpg)
+
 Set up Git
 
-PIC10
+![a](http://i59.tinypic.com/2434tgo.jpg)
 
 git status and git add
 
-PIC11
+![a](http://i57.tinypic.com/34q0gzl.jpg)
 
 Commit , pull and then push
 
-PIC12
+![a](http://i58.tinypic.com/df7q4k.jpg)
+
+![a](http://i60.tinypic.com/117wfwp.jpg)
 
 GitHub reflects your commit
 
-PIC13
+![a](http://i60.tinypic.com/bhhbut.jpg)
 
+![a](http://i60.tinypic.com/2w4melj.jpg)
 
-PIC14
-
-POIC15
-
-
+![a](http://i61.tinypic.com/1118f1x.jpg)
 
 
 
@@ -91,7 +87,9 @@ POIC15
 
 
 
-GitHub reflects your commit
+
+
+
 
 
 
