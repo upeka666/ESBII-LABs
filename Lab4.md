@@ -27,52 +27,52 @@ Click Fork
 
 ![a](http://i62.tinypic.com/x0xmo2.jpg)
 
-After Fork
+**After Fork**
 
 ![a](http://i61.tinypic.com/2r4kef4.jpg)
 
-Copy the git clone URL
+**Copy the git clone URL**
 
 ![a](http://i59.tinypic.com/10n9hl4.jpg)
 
-Open your terminal and change to the configuration file directory.
+**Open your terminal and change to the configuration file directory.**
 
 ![a](http://i59.tinypic.com/mhsx6q.jpg)
 
-git clone the repo inside of introHCL
+**git clone the repo inside of introHCL**
 
 ![a](http://i58.tinypic.com/21oq4ip.jpg)
 
-Open your text editor
-Add your info into lab1/static/index.html
+**Open your text editor**
+**Add your info into lab1/static/index.html**
 
 ![a](http://i58.tinypic.com/21oq4ip.jpg)
 
-Browse to index.html using the file on your hard drive
+**Browse to index.html using the file on your hard drive**
 
 ![a](http://i60.tinypic.com/2nrhshi.jpg)
 
-Turn the portfolio page scaffold into a full web site and push it to GitHub
+**Turn the portfolio page scaffold into a full web site and push it to GitHub**
 
 ![a](http://i58.tinypic.com/53pk7q.jpg)
 
 ![a](http://i60.tinypic.com/r85s85.jpg)
 
-Set up Git
+**Set up Git**
 
 ![a](http://i59.tinypic.com/2434tgo.jpg)
 
-git status and git add
+**git status and git add**
 
 ![a](http://i57.tinypic.com/34q0gzl.jpg)
 
-Commit , pull and then push
+**Commit , pull and then push**
 
 ![a](http://i58.tinypic.com/df7q4k.jpg)
 
 ![a](http://i60.tinypic.com/117wfwp.jpg)
 
-GitHub reflects your commit
+**GitHub reflects your commit**
 
 ![a](http://i60.tinypic.com/bhhbut.jpg)
 
