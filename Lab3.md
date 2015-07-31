@@ -9,7 +9,7 @@
 
 **Create a Bucket**
 
-steps of the process
+**steps of the process**
 
 
 
@@ -20,7 +20,7 @@ Click Create Bucket .
 
 ![a](http://i61.tinypic.com/121pbu9.jpg)
 
-In the Create a Bucket dialog box, in the Bucket Name box, enter a bucket name.
+**In the Create a Bucket dialog box, in the Bucket Name box, enter a bucket name.**
 
 In the Region box, select a region. For this exercise, select Oregon from the drop-down list.
    Click Create .
@@ -33,19 +33,19 @@ In the Region box, select a region. For this exercise, select Oregon from the dr
  
  **Add an object to a bucket.**
  
- Now you're ready to add an object to it. An object can be any kind of file: a text file, a photo, a video and so forth.
+ **Now you're ready to add an object to it. An object can be any kind of file: a text file, a photo, a video and so forth.**
 
 empty bucket.
 
-Click the name of bucket that you want to upload an object to and then click Upload
+**Click the name of bucket that you want to upload an object to and then click Upload**
 
 ![a](http://i57.tinypic.com/254x9ad.jpg)
 
-Click Add Files and select the file that you want to upload.
+**Click Add Files and select the file that you want to upload.**
 
 ![a](http://i62.tinypic.com/21okmo.jpg)
 
-Click Start Upload
+**Click Start Upload**
 
 ![a](http://i57.tinypic.com/wldfk8.jpg)
 
@@ -55,9 +55,9 @@ Click Start Upload
 
 **View an Object**
 
-You can open and view it in a browser. You can also download the object to your local computer.
+**You can open and view it in a browser. You can also download the object to your local computer.**
 
-Open an object.
+**Open an object.**
 
 ![a](http://i60.tinypic.com/rtoxo1.jpg)
 
@@ -71,8 +71,8 @@ Open an object.
 
 **Delete an Object and Bucket**
 
-Delete an object
-Right-click the object that you want to delete, and then click Delete.
+**Delete an object**
+**Right-click the object that you want to delete, and then click Delete.**
 
 ![a](http://i61.tinypic.com/nb85j9.jpg)
 
@@ -80,13 +80,13 @@ Right-click the object that you want to delete, and then click Delete.
 
 ![a](http://i59.tinypic.com/2z8c1o9.jpg)
 
-Delete the bucket
+**Delete the bucket**
 
-Right-click the bucket that you want to delete, and then click Delete Bucket 
+**Right-click the bucket that you want to delete, and then click Delete Bucket **
 
 ![a](http://i61.tinypic.com/1z343d3.jpg)
 
-Enter the bucket name and click Delete.
+**Enter the bucket name and click Delete.**
 
 ![a](http://i62.tinypic.com/29o0kyf.jpg)
 
@@ -101,19 +101,19 @@ Enter the bucket name and click Delete.
 
 ![a](http://i62.tinypic.com/2sbtvkz.jpg)
 
-Click the Select button for the MySQL DB engine
+**Click the Select button for the MySQL DB engine**
 
 ![a](http://i61.tinypic.com/eh0o3s.jpg)
 
-Production?
+**Production?**
   
 ![a](http://i57.tinypic.com/azantj.jpg)
 
-Specify DB Details
+**Specify DB Details**
 
 ![a](http://i58.tinypic.com/ddhx81.jpg)
 
-Configure Advanced Settings
+**Configure Advanced Settings**
 
 ![a](http://i61.tinypic.com/156r68m.jpg)
 
