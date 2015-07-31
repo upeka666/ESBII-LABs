@@ -111,14 +111,13 @@ Production?
 
 Specify DB Details
 
-
+![a](http://i58.tinypic.com/ddhx81.jpg)
 
 Configure Advanced Settings
 
+![a](http://i61.tinypic.com/156r68m.jpg)
+
 ![a](http://i58.tinypic.com/34i4igm.jpg)
-
-
-![a](http://i58.tinypic.com/2hoz5ht.jpg)
 
 ![a](http://i62.tinypic.com/2zrnpud.jpg)
 
