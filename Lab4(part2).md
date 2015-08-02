@@ -33,7 +33,7 @@
 
 ![a](http://i57.tinypic.com/2i78tfn.jpg)
 
-Fork the Lab 2 repository at http://github.com/IntroHCI/lab2
+**Fork the Lab 2 repository at **http://github.com/IntroHCI/lab2
 
 ![a](http://i59.tinypic.com/195u6u.jpg)
 
