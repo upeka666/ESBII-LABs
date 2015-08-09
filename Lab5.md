@@ -70,6 +70,17 @@ cmd:
 
 wget https://download.owncloud.org/community/owncloud-8.1.0.tar.bz2
 
+<a href="http://tinypic.com?ref=pydu0" target="_blank"><img src="http://i61.tinypic.com/pydu0.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://tinypic.com?ref=2jdn8qw" target="_blank"><img src="http://i61.tinypic.com/2jdn8qw.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://tinypic.com?ref=ic5wf4" target="_blank"><img src="http://i62.tinypic.com/ic5wf4.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Create Database:
+If you are setting up a MariaDB for the first time, here is the tutorial on Securing MariaDB. MariaDB server must be started before creating the database, login to MySQL server
+
+
+
 
 
 
