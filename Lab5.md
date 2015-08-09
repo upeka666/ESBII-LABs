@@ -30,7 +30,9 @@ Download and install ownCloud on your own Linux server
 
 <a href="http://tinypic.com?ref=33p8uqh" target="_blank"><img src="http://i59.tinypic.com/33p8uqh.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
+<a href="http://tinypic.com?ref=m7vqqo" target="_blank"><img src="http://i60.tinypic.com/m7vqqo.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
+<a href="http://tinypic.com?ref=15frxfs" target="_blank"><img src="http://i60.tinypic.com/15frxfs.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 
 
