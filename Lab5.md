@@ -64,6 +64,24 @@ Download and install ownCloud on your own Linux server
 
 <a href="http://tinypic.com?ref=rku79i" target="_blank"><img src="http://i60.tinypic.com/rku79i.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
+Download and Setup:
+Download ownCloud from official website or enter the fallowing command on terminal.
+
+cmd:
+
+wget https://download.owncloud.org/community/owncloud-8.1.0.tar.bz2
+
+<a href="http://tinypic.com?ref=ml338h" target="_blank"><img src="http://i60.tinypic.com/ml338h.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+
+<a href="http://tinypic.com?ref=2gt0qxs" target="_blank"><img src="http://i61.tinypic.com/2gt0qxs.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+
+<a href="http://tinypic.com?ref=2hgqxl4" target="_blank"><img src="http://i57.tinypic.com/2hgqxl4.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Create Database:
+If you are setting up a MariaDB for the first time, here is the tutorial on Securing MariaDB. MariaDB server must be started before creating the database, login to MySQL server.
+
 
 
 
