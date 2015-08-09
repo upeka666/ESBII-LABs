@@ -3,9 +3,9 @@
 
 **SLIIT ID:IT12518456**
 
-**Practical Session: WE Thursday (7/30/2015*)**
+**Practical Session: WE Thursday (7/30/2015)**
 
-**Practical Number: Lab**
+**Practical Number: Lab5**
 
 
 **Download and install ownCloud on your own Linux server**
