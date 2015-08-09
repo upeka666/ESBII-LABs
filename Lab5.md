@@ -1,14 +1,14 @@
 
-Name: H.p.U Dulanjalee
+**Name: H.p.U Dulanjalee**
 
-SLIIT ID:IT12518456
+**SLIIT ID:IT12518456**
 
-Practical Session: WE Thursday (7/30/2015)
+**Practical Session: WE Thursday (7/30/2015*)**
 
-Practical Number: Lab 
+**Practical Number: Lab**
 
 
-Download and install ownCloud on your own Linux server
+**Download and install ownCloud on your own Linux server**
 
 <a href="http://tinypic.com?ref=jqkdar" target="_blank"><img src="http://i60.tinypic.com/jqkdar.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
@@ -63,10 +63,11 @@ Download and install ownCloud on your own Linux server
 
 <a href="http://tinypic.com?ref=rku79i" target="_blank"><img src="http://i60.tinypic.com/rku79i.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-Download and Setup:
-Download ownCloud from official website or enter the fallowing command on terminal.
+**Download and Setup:**
 
-cmd:
+**Download ownCloud from official website or enter the fallowing command on terminal.**
+
+**cmd:**
 
 wget https://download.owncloud.org/community/owncloud-8.1.0.tar.bz2
 
@@ -76,8 +77,24 @@ wget https://download.owncloud.org/community/owncloud-8.1.0.tar.bz2
 
 <a href="http://tinypic.com?ref=ic5wf4" target="_blank"><img src="http://i62.tinypic.com/ic5wf4.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-Create Database:
-If you are setting up a MariaDB for the first time, here is the tutorial on Securing MariaDB. MariaDB server must be started before creating the database, login to MySQL server
+**Create Database:**
+
+**If you are setting up a MariaDB for the first time, here is the tutorial on Securing MariaDB. MariaDB server must be started before creating the database, login to MySQL server**
+
+<a href="http://tinypic.com?ref=29c16yb" target="_blank"><img src="http://i58.tinypic.com/29c16yb.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://tinypic.com?ref=6jnbk6" target="_blank"><img src="http://i60.tinypic.com/6jnbk6.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://tinypic.com?ref=x4esrr" target="_blank"><img src="http://i61.tinypic.com/x4esrr.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://tinypic.com?ref=oh1liv" target="_blank"><img src="http://i58.tinypic.com/oh1liv.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://tinypic.com?ref=oqvf4h" target="_blank"><img src="http://i60.tinypic.com/oqvf4h.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+
+<a href="http://tinypic.com?ref=2u5x0z7" target="_blank"><img src="http://i61.tinypic.com/2u5x0z7.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+
 
 
 
